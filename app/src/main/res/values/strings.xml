@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Everything App</string>
+    <string name="extendedFABString">Finished</string>
+    <string name="titleString">Title</string>
+    <string name="notesString">Notes</string>
+    <string name="title_activity_notes_section">NotesSection</string>
+    <string name="createNotesButton">Create</string>
+    <string name="notesTitleFrontPage">Notes</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="clockTitle">Alarms</string>
+    <string name="createAlarmNameString">Name Of Alarm</string>
+    <string name="alarmCreatorTitle">Alarm Creator</string>
+    <string name="note_creatorTitle">Note Creator</string>
+    <string name="timeSet">Time Not Set Yet</string>
+    <string name="set_timeFAB">Set Time</string>
+</resources>
